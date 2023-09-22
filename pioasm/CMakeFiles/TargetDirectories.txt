@@ -1,0 +1,3 @@
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/CMakeFiles/pioasm.dir
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/CMakeFiles/edit_cache.dir
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/CMakeFiles/rebuild_cache.dir

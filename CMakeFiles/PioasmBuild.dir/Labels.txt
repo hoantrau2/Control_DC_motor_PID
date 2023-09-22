@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+C:/VSARM/sdk/pico/pico-motor-control-usb/CMakeFiles/PioasmBuild
+C:/VSARM/sdk/pico/pico-motor-control-usb/CMakeFiles/PioasmBuild.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/CMakeFiles/PioasmBuild-complete.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

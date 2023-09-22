@@ -1,0 +1,108 @@
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\pico.exe.config
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\pico.exe
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\pico.pdb
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.csproj.AssemblyReference.cache
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.csproj.SuggestedBindingRedirects.cache
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.Properties.Resources.resources
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.csproj.GenerateResource.cache
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.csproj.CoreCompileInputs.cache
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.exe
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.pdb
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.Form1.resources
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\ZedGraph.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\ZedGraph.xml
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\de\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\es\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\fr\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\hu\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\it\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\ja\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\pt\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\ru\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\sk\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\sv\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\tr\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\pico\pico\obj\Debug\pico.csproj.CopyComplete
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\pico.exe.config
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\pico.exe
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\pico.pdb
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\ZedGraph.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\ZedGraph.xml
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\de\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\es\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\fr\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\hu\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\it\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\ja\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\pt\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\ru\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\sk\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\sv\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\tr\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.csproj.AssemblyReference.cache
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.csproj.SuggestedBindingRedirects.cache
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.Form1.resources
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.Properties.Resources.resources
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.csproj.GenerateResource.cache
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.csproj.CoreCompileInputs.cache
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.csproj.CopyComplete
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.exe
+D:\MyDocument\Study\PC-Based Measurement and Control\BTL\SW\pico\obj\Debug\pico.pdb
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\pico.exe.config
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\pico.exe
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\pico.pdb
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.Form1.resources
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.Properties.Resources.resources
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.csproj.CopyComplete
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.exe
+C:\Users\Admin\Downloads\SWfinall\SW\pico\obj\Debug\pico.pdb
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\pico.exe.config
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\pico.exe
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\pico.pdb
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\ZedGraph.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\ZedGraph.xml
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.Form1.resources
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.Properties.Resources.resources
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.csproj.CopyComplete
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.exe
+C:\Users\Admin\Downloads\PID_control-DC-motor\Software_giao_dien\SW\pico\obj\Debug\pico.pdb

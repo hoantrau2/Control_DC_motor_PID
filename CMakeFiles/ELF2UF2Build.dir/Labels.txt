@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+C:/VSARM/sdk/pico/pico-motor-control-usb/CMakeFiles/ELF2UF2Build
+C:/VSARM/sdk/pico/pico-motor-control-usb/CMakeFiles/ELF2UF2Build.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/CMakeFiles/ELF2UF2Build-complete.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+C:/VSARM/sdk/pico/pico-motor-control-usb/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
